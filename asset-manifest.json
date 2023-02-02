@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/Hakizimana-Clement/Emojipedia/static/js/main.243b6b05.js",
-    "index.html": "/Hakizimana-Clement/Emojipedia/index.html",
-    "main.243b6b05.js.map": "/Hakizimana-Clement/Emojipedia/static/js/main.243b6b05.js.map"
+    "main.css": "/Emojipedia/static/css/main.739c321f.css",
+    "main.js": "/Emojipedia/static/js/main.243b6b05.js",
+    "index.html": "/Emojipedia/index.html",
+    "main.739c321f.css.map": "/Emojipedia/static/css/main.739c321f.css.map",
+    "main.243b6b05.js.map": "/Emojipedia/static/js/main.243b6b05.js.map"
   },
   "entrypoints": [
+    "static/css/main.739c321f.css",
     "static/js/main.243b6b05.js"
   ]
 }
