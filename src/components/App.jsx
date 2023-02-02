@@ -1,4 +1,5 @@
 import React from "react";
+import "../App.css";
 import Entry from "./Entry";
 import emojipedia from "../emojipedia";
 import CurrentYear from "./copyright";
